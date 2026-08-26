@@ -98,14 +98,6 @@ I'm actively working on improving my problem-solving and DSA skills.
 
 ---
 
-## 🐍 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 * Strengthen Python fundamentals
