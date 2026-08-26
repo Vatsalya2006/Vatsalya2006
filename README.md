@@ -204,7 +204,7 @@ AI to build practical, real-world systems.
 
 <div align="center">
 
-### 💻 Consistently solving Data Structures & Algorithms problems in C++
+### 💻 Consistently solving Data Structures & Algorithms problems in JAVA
 
 **Focus:** Arrays • Strings • Hashing • Binary Search • Trees • Graphs • Dynamic Programming
 
