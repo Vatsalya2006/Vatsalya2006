@@ -236,17 +236,33 @@ alt="GitHub Contribution Streak"
 
 ---
 
+---
+
 # 🐍 Contribution Activity
 
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
 
 </div>
 
+---
 ---
 ---
 
