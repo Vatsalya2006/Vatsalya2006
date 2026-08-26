@@ -1,132 +1,333 @@
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-contribution-grid-snake-dark.svg)
-# 👋 Hi, I'm Vatsalya Mishra
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Computer Science Student • Python • DSA • Machine Learning
+<div align="center">
 
-I'm a Computer Science student focused on building strong foundations in **software development, problem solving, Python, and Machine Learning**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=180&section=header&text=Vatsalya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-I enjoy learning by building projects, solving programming problems, and continuously improving my technical skills.
+### CSE Student • Software & AI/ML Enthusiast • Future ML Engineer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=DC143C&center=true&vCenter=true&width=750&lines=Building+my+foundation+in+Software+Engineering;Solving+DSA+problems+in+C%2B%2B;Learning+Python+for+AI+%26+Machine+Learning;Exploring+Machine+Learning+%26+Generative+AI;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
 
-## 🧠 Currently Learning
+<br/>
 
-* 🐍 Python
-* 🤖 Machine Learning
-* 🧩 Data Structures & Algorithms
-* 📊 Data Analysis
-* 🗄️ SQL
-* 💻 Software Development
+<a href="https://github.com/Vatsalya2006">
+<img src="https://img.shields.io/badge/GitHub-Vatsalya2006-181717?style=for-the-badge&logo=github" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/vatsalya-mishra-120a87266">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-B22222?style=for-the-badge&logo=linkedin" />
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://leetcode.com/u/rmZ6l4h8fR/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-DC143C?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-### Languages
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+# 👨‍💻 About Me
 
-### 🧩 DSA Practice
+I'm a Computer Science Engineering student focused on building a strong
+foundation in **software engineering, problem solving, Artificial
+Intelligence, and Machine Learning**.
 
-Repository containing my solutions and practice for **Data Structures & Algorithms**.
-
-🔗 [View DSA Repository](https://github.com/Vatsalya2006/-DSA)
-
----
-
-### 🌐 HTML Portfolio
-
-A portfolio project built using HTML.
-
-🔗 [View Project](https://github.com/Vatsalya2006/Html-Portfolio)
-
----
-
-### 🎨 Color Vocabulary Project
-
-A web project built using HTML and CSS.
-
-🔗 [View Project](https://github.com/Vatsalya2006/Color-Vocab-Project-)
+- 🎓 Computer Science Engineering student
+- 💻 Practicing **Data Structures & Algorithms in C++**
+- 🐍 Learning **Python** for Machine Learning and AI
+- 🌐 Building projects with **JavaScript, HTML and web technologies**
+- 🤖 Exploring **Machine Learning** and practical AI applications
+- 🧠 Building strong programming and problem-solving fundamentals
+- 📈 Consistently practicing problem solving through **LeetCode**
+- 🚀 Learning by building, debugging and improving real projects
 
 ---
 
-### ⚡ AutoCoder
+# 🛠️ Technology Stack
 
-A website project created for a website designing competition.
+### 💻 Languages
 
-🔗 [View Project](https://github.com/Vatsalya2006/autocoder6)
-
----
-
-## 💻 Coding Profiles
-
-### LeetCode
-
-I'm actively working on improving my problem-solving and DSA skills.
-
-🔗 [LeetCode Profile](https://leetcode.com/u/rmZ6l4h8fR/)
-
-### GitHub
-
-🔗 [@Vatsalya2006](https://github.com/Vatsalya2006)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vatsalya2006&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vatsalya2006&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java" />
 </p>
 
----
+### ⚙️ Development
 
-## 🎯 2026 Goals
-
-* Strengthen Python fundamentals
-* Build real-world Python projects
-* Learn Machine Learning properly
-* Improve DSA and problem solving
-* Build a strong ML/software portfolio
-* Contribute to open-source projects
-* Prepare for software engineering and ML opportunities
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vatsalya-mishra-120a87266">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/rmZ6l4h8fR/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/Vatsalya2006">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
----
+### 🔧 Tools & Environment
 
-<p align="center">
-  <i>Learning. Building. Solving. Improving.</i>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
+### 🤖 AI & Machine Learning
+
+**Python • Machine Learning • Artificial Intelligence • Generative AI**
+
+> Currently focusing on Python, DSA, machine learning fundamentals
+> and practical AI systems.
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏥 SMART WARD
+
+Hospital / Smart Ward management project designed to organize
+hospital and ward-related information through a centralized interface.
+
+**Focus**
+
+`Software Development` `Management System`
+
+**Stack**
+
+`JavaScript` `HTML` `CSS`
+
+<br/>
+
+<a href="https://github.com/Vatsalya2006/smart-ward">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 DSA
+
+A collection of my Data Structures & Algorithms practice and
+problem-solving implementations.
+
+**Focus**
+
+`DSA` `Algorithms` `Problem Solving`
+
+**Stack**
+
+`C++`
+
+<br/>
+
+<a href="https://github.com/Vatsalya2006/-DSA">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## ⚡ JAVASCRIPT
+
+JavaScript practice and projects created while strengthening my
+programming and web development fundamentals.
+
+**Focus**
+
+`JavaScript` `Programming` `Web Development`
+
+**Stack**
+
+`JavaScript`
+
+<br/>
+
+<a href="https://github.com/Vatsalya2006/js-hindi">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 HTML PORTFOLIO
+
+A personal portfolio project created while building stronger
+foundations in HTML and web development.
+
+**Focus**
+
+`HTML` `Web Development` `Frontend`
+
+**Stack**
+
+`HTML`
+
+<br/>
+
+<a href="https://github.com/Vatsalya2006/Html-Portfolio">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧭 My Engineering Path
+
+<div align="center">
+
+### C++ / DSA → Python → Machine Learning → Deep Learning → GenAI → AI Systems
+
+</div>
+
+My long-term goal is to become a strong software and ML engineer,
+combining solid programming fundamentals with machine learning and
+AI to build practical, real-world systems.
+
+---
+
+# 🧠 Problem Solving
+
+<div align="center">
+
+### 💻 Consistently solving Data Structures & Algorithms problems in C++
+
+**Focus:** Arrays • Strings • Hashing • Binary Search • Trees • Graphs • Dynamic Programming
+
+<br/>
+
+<a href="https://leetcode.com/u/rmZ6l4h8fR/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-DC143C?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+</div>
+
+I use C++ for consistent DSA practice and technical interview preparation,
+with a focus on developing strong algorithmic thinking and problem-solving skills.
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Vatsalya2006&theme=dark&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&dates=FFFFFF"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-snake-dark.svg?v=2"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Area | Current Focus |
+|---|---|
+| 🐍 **Python** | Core Python → OOP → Advanced Python |
+| 🧠 **DSA** | Data Structures → Algorithms → Problem Solving |
+| 📊 **Data** | NumPy → Pandas → Data Analysis |
+| 🤖 **AI / ML** | ML Fundamentals → Model Building → Deployment |
+| 🧠 **Generative AI** | LLMs → AI APIs → RAG |
+| 🌐 **Development** | JavaScript → Web Development |
+| 🚀 **Future** | Deep Learning → MLOps → AI Engineering |
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- [x] Build consistency with Data Structures & Algorithms
+- [x] Build programming projects
+- [ ] Become strong in Python
+- [ ] Master Data Structures & Algorithms
+- [ ] Learn NumPy & Pandas
+- [ ] Learn Machine Learning properly
+- [ ] Build strong ML projects
+- [ ] Learn Deep Learning
+- [ ] Explore Generative AI systems
+- [ ] Deploy ML models
+- [ ] Build AI-powered applications
+- [ ] Learn MLOps fundamentals
+- [ ] Contribute to Open Source
+- [ ] Secure a strong Software / AI / ML internship
+
+---
+
+# 💡 Engineering Philosophy
+
+<div align="center">
+
+### Build → Break → Understand → Fix → Improve
+
+</div>
+
+I believe the best way to learn technology is by building real systems,
+debugging failures, understanding why they fail and continuously improving them.
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in connecting with people working on:
+
+**AI • Machine Learning • Software Engineering • Backend • Open Source • Technology**
+
+<div align="center">
+
+<a href="https://github.com/Vatsalya2006">
+<img src="https://img.shields.io/badge/GitHub-Vatsalya2006-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/vatsalya-mishra-120a87266">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-B22222?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/rmZ6l4h8fR/">
+<img src="https://img.shields.io/badge/LeetCode-Connect-DC143C?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img
+src="https://komarev.com/ghpvc/?username=Vatsalya2006&style=for-the-badge&label=PROFILE+VIEWS&color=DC143C"
+alt="Profile Views"
+/>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=100&section=footer" />
