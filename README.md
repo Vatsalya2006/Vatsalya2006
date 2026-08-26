@@ -234,17 +234,20 @@ alt="GitHub Contribution Streak"
 
 ---
 
+---
+
 # 🐍 Contribution Activity
 
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-snake-dark.svg?v=2"
+src="https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-snake-dark.svg"
 alt="GitHub Contribution Snake"
 />
 
 </div>
 
+---
 ---
 
 # 📚 Currently Learning
