@@ -190,7 +190,7 @@ foundations in HTML and web development.
 
 <div align="center">
 
-### C++ / DSA → Python → Machine Learning → Deep Learning → GenAI → AI Systems
+### JAVA / DSA → Python → Machine Learning → Deep Learning → GenAI → AI Systems
 
 </div>
 
