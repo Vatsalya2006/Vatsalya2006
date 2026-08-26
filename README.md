@@ -1,3 +1,1 @@
-## My Contributions
-
-![GitHub Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Vatsalya2006/Vatsalya2006/output/github-contribution-grid-snake.svg)
