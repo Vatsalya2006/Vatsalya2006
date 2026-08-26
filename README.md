@@ -92,16 +92,14 @@ I'm actively working on improving my problem-solving and DSA skills.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vatsalya2006&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalya2006&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vatsalya2006&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vatsalya2006&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vatsalya2006&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Vatsalya2006&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
