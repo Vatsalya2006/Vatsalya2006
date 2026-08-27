@@ -8,7 +8,7 @@
 
 ### CSE Student • Software & AI/ML Enthusiast • Future ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=DC143C&center=true&vCenter=true&width=750&lines=Building+my+foundation+in+Software+Engineering;Solving+DSA+problems+in+C%2B%2B;Learning+Python+for+AI+%26+Machine+Learning;Exploring+Machine+Learning+%26+Generative+AI;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=DC143C&center=true&vCenter=true&width=750&lines=Building+my+foundation+in+Software+Engineering;Solving+DSA+problems+in+JAVA;Learning+Python+for+AI+%26+Machine+Learning;Exploring+Machine+Learning+%26+Generative+AI;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
 
 <br/>
 
